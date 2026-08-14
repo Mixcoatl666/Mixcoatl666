@@ -66,16 +66,13 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 ## Certificaciones e idiomas
 
-**Certificaciones:** Scrum Fundamentals Certified (SCRUMstudy) · Mendix Rapid Developer · Introduction to Cybersecurity (Cisco) · NDG Linux Essentials (Cisco)
+**Certificaciones:**
+- Scrum Fundamentals Certified (SCRUMstudy)
+- Mendix Rapid Developer
+- Introduction to Cybersecurity (Cisco)
+- NDG Linux Essentials (Cisco)
 
 **Idiomas:** Español (nativo) · Inglés (B1, principalmente lectura técnica)
-
-## Actividad en GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mixcoatl666&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Mixcoatl666">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixcoatl666&layout=compact&hide_border=true" alt="Lenguajes más utilizados por Mixcoatl666">
-</p>
 
 ## Contacto
 

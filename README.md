@@ -18,7 +18,7 @@
 
 Software Engineer con experiencia en desarrollo Full Stack y QA en entornos empresariales. Me interesa entender y aportar valor a todo el flujo de una solución: **base de datos → backend/API → frontend → pruebas y validación**.
 
-Mi experiencia combina desarrollo con una mirada orientada a la calidad: consumo y desarrollo de APIs REST, pruebas funcionales, validación de datos con SQL, investigación de incidencias y trabajo bajo metodologías ágiles/Scrum. He colaborado profesionalmente en **NAD Global**.
+Mi experiencia combina desarrollo con una mirada orientada a la calidad: consumo y desarrollo de APIs REST, pruebas funcionales, validación de datos con SQL, investigación de incidencias y trabajo bajo metodologías ágiles/Scrum.
 
 ## Tecnologías
 
@@ -36,6 +36,8 @@ Mi experiencia combina desarrollo con una mirada orientada a la calidad: consumo
 
 **QA y pruebas**<br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Functional%20Testing-333333?style=flat-square" alt="Functional Testing">
+<br>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"> <img src="https://img.shields.io/badge/Supertest-333333?style=flat-square" alt="Supertest">
 
 **Datos y BI**<br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX">
@@ -55,13 +57,16 @@ Mi experiencia combina desarrollo con una mirada orientada a la calidad: consumo
 
 QA es parte de cómo construyo software, no una etapa final. Realizo pruebas funcionales, de integración y regresión; valido APIs REST con Postman; reviso la consistencia de datos mediante SQL; y documento y doy seguimiento a defectos. Esto complementa mi trabajo Full Stack para entregar soluciones funcionales y verificables.
 
+Aplico Playwright, Jest, Vitest y Supertest en proyectos para automatizar pruebas de interfaz y de APIs, mientras sigo fortaleciendo su uso.
+
 ## En qué me estoy enfocando
 
 Actualmente estoy fortaleciendo mis conocimientos en:
 
-- Pruebas automatizadas con Playwright y Cypress
+- Pruebas automatizadas con Playwright, Jest, Vitest y Supertest
+- Python: *Python Practicando. Desde 0 hasta Desarrollador en Python* (en curso)
+- Ciberseguridad: *Penetration Testing Student* (en curso)
 - Prácticas de CI/CD
-- Fundamentos de cloud, incluido AWS
 - Inglés técnico
 
 ## Certificaciones e idiomas
@@ -71,6 +76,10 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 - Mendix Rapid Developer
 - Introduction to Cybersecurity (Cisco)
 - NDG Linux Essentials (Cisco)
+
+**Cursos y constancias:**
+- Crea aplicaciones Profesionales con Flask, Python y API REST — certificado de finalización (Udemy)
+- Iniciación al desarrollo con IA — certificado de asistencia (BIG school y mouredev)
 
 **Idiomas:** Español (nativo) · Inglés (B1, principalmente lectura técnica)
 
